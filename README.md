@@ -8,8 +8,7 @@ Final-year Computer Science student from Pune, into **IoT, Cloud, Flutter, and i
 ## 🔎 Quick bits
 - 🎓 B.E. Computer Science — Vishwakarma University (Expected Dec 2026)  
 - 📍 Pune, Maharashtra, India  
-- ✉️ ammaar.nalkhande@gmail.com · ☎️ +91 738 513 3768  
-- 🔗 [LinkedIn](https://linkedin.com/in/ammaar-nalkhande) · GitHub: **Ammaar-nalkhandE**
+
 
 ---
 
@@ -20,11 +19,7 @@ Final-year Computer Science student from Pune, into **IoT, Cloud, Flutter, and i
 - **IoT:** Arduino, Raspberry Pi, ESP32, MPU6050  
 - **Extras:** AR & 3D modelling in Flutter, basic ML/AI experiments
 
----
 
-## 💼 Experience (high level)
-**Intern — Fladdra Technologies (Jun 2024 – Aug 2024)**  
-Built and deployed IoT solutions using Python, Arduino & Raspberry Pi and integrated AWS cloud services to make prototypes production-ready.
 
 ---
 
@@ -57,6 +52,12 @@ Built and deployed IoT solutions using Python, Arduino & Raspberry Pi and integr
 - IBM IT Fundamentals for Cybersecurity  
 - Fundamentals of Computer Network Security (Univ. of Colorado)
 
+
+---
+
+## 💼 Experience (high level)
+**Intern — Fladdra Technologies (Jun 2024 – Aug 2024)**  
+Built and deployed IoT solutions using Python, Arduino & Raspberry Pi and integrated AWS cloud services to make prototypes production-ready.
 ---
 
 ## 🏸 Off the clock
