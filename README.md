@@ -38,7 +38,7 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 <p>
   <!-- reliable AWS icon (SimpleIcons) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/250px-Amazon_Web_Services_Logo.svg.png" width="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pDzL7hgzhBGXhUZFTuvbCOzPD9s1oghoWfD14lccHu0hzxAoSdOHfrIDwp7slVPPiWs&usqp=CAU" width="40" alt="Bash" />
 </p>
 
 ### 🤖 AI / ML
