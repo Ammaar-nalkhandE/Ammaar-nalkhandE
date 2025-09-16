@@ -142,7 +142,7 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 </style>
 
 <!-- Button with the CSS class (some renderers strip <style>, so keep the inline fallback below) -->
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ammaar-nalkhande" target="_blank">Follow on LinkedIn</a>
+
 
 <!-- Inline-styled fallback (this will render on GitHub profile README reliably) -->
 <p>
