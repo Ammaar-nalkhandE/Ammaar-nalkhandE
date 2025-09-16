@@ -36,7 +36,8 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS" />
+  <!-- reliable AWS icon (SimpleIcons) -->
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
 </p>
 
@@ -48,9 +49,9 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 
 ### 🔌 IoT & Embedded
 <p>
-  <img src="https://img.icons8.com/ios/50/raspberry-pi.png" width="40" alt="Raspberry Pi" />
-  <img src="https://img.icons8.com/ios/50/arduino.png" width="40" alt="Arduino" />
-  <img src="https://img.icons8.com/ios/50/sensor.png" width="40" alt="Sensors" />
+  <img src="https://img.icons8.com/color/48/raspberry-pi.png" width="40" alt="Raspberry Pi" />
+  <img src="https://img.icons8.com/color/48/arduino.png" width="40" alt="Arduino" />
+  <img src="https://img.icons8.com/color/48/electronics.png" width="40" alt="Electronics" />
 </p>
 
 ### 📦 Databases
@@ -64,13 +65,13 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 ## 💼 Experience (selected)
 
 **AI Software Development Intern** — *EduPlusCampus (UDNAV Software Services Pvt. Ltd.)*  
-*Pune, Maharashtra — Jul 2024 – Dec 2024 (6 months)*
-- Contributed to an AI-Based Smart Campus Surveillance System: model design, computer vision tasks, and software integration.
+*Pune, Maharashtra — Jul 2024 – Dec 2024 (6 months)*  
+- Contributed to an AI-Based Smart Campus Surveillance System: model design, computer vision tasks, and software integration.  
 - Implemented data-preprocessing pipelines, trained and optimized deep learning models, and integrated inference into the application stack via APIs and containerized deployment.
 
 **IoT Development Intern** — *Fladdra Technologies Pvt. Ltd.*  
-*Pune, Maharashtra — Jun 2024 – Jul 2024 (2 months)*
-- Worked on the EzyEv project: battery swapping station prototyping and IoT connectivity.
+*Pune, Maharashtra — Jun 2024 – Jul 2024 (2 months)*  
+- Worked on the EzyEv project: battery swapping station prototyping and IoT connectivity.  
 - Developed Raspberry Pi device logic, telemetry APIs, and AWS integrations for ingestion and monitoring.
 
 ---
@@ -121,6 +122,49 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 - Email: ammaar.nalkhande@gmail.com  
 - LinkedIn: https://linkedin.com/in/ammaar-nalkhande
 
+<!-- User-requested style block (kept as-is per request) -->
+<style>
+  .libutton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px;
+    text-align: center;
+    outline: none;
+    text-decoration: none !important;
+    color: #ffffff !important;
+    width: 200px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #0A66C2;
+    font-family: "SF Pro Text", Helvetica, sans-serif;
+  }
+</style>
+
+<!-- Button with the CSS class (some renderers strip <style>, so keep the inline fallback below) -->
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ammaar-nalkhande" target="_blank">Follow on LinkedIn</a>
+
+<!-- Inline-styled fallback (this will render on GitHub profile README reliably) -->
+<p>
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ammaar-nalkhande" target="_blank" style="
+    display: inline-block;
+    padding: 7px 20px;
+    text-align: center;
+    color: #ffffff !important;
+    background-color: #0A66C2;
+    border-radius: 16px;
+    font-family: 'SF Pro Text', Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    width: 200px;
+    height: 32px;
+    line-height: 18px;
+  ">
+    🔗 Follow on LinkedIn
+  </a>
+</p>
+
 ---
 
-⭐ _“Always building, always learning.”_  
+⭐ _“Always building, always learning.”_
