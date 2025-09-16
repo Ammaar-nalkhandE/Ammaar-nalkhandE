@@ -37,7 +37,7 @@ Final-year Computer Engineering student seeking an entry-level role as an **AI/M
 ### ☁️ Cloud & DevOps
 <p>
   <!-- reliable AWS icon (SimpleIcons) -->
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/250px-Amazon_Web_Services_Logo.svg.png" width="50" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/250px-Amazon_Web_Services_Logo.svg.png" width="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
 </p>
 
